@@ -1,4 +1,4 @@
-# Esse projeto foi realizado com as ferramentas em HTML e CSS:
+# Esse projeto foi realizado com as ferramentas em HTML e CSS
 
 ⏺Construindo o site como uma (Tabela);
 
