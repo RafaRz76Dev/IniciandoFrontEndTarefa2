@@ -8,7 +8,7 @@
 
 💠 Link para o site🖐👇
 
-#  https://rafarz76.github.io/IniciandoFrontEndTarefa2/
+#  https://rafarz76dev.github.io/IniciandoFrontEndTarefa2/
 
 ▶ 😀👀Bora lá....
 
